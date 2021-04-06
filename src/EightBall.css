@@ -1,0 +1,29 @@
+.EightBall {
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	align-items: center;
+	padding: 25px;
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 2rem;
+}
+
+.EightBall-message {
+	color: white;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.EightBall-reset {
+	font-size: 1.5rem;
+	margin-bottom: 10px;
+}
+
+.EightBall-colorCount p {
+	margin: 0;
+}
